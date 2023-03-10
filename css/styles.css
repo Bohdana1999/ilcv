@@ -84,8 +84,8 @@ link {
 .title {
   font-style: normal;
   font-weight: 700;
-  font-size: 22px;
-  line-height: calc(27/22);
+  font-size: 20px;
+  line-height: calc(27/20);
   margin-bottom: 8px;
 }
 .work-title{
@@ -113,6 +113,7 @@ link {
   font-weight: 700;
     font-size: 14px;
     line-height: calc(17/14);
+    margin-top: 10px;
   
   
     color: #000000;
@@ -135,3 +136,9 @@ link {
     color: #161D2A;
     text-align:left;
 }
+ .text-about > .contacts{
+    font-weight: 400;
+      font-size: 14px;
+      line-height: calc(18/14);
+      
+    }
